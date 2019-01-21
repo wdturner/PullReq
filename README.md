@@ -1,2 +1,2 @@
-# Summer2018PullReq
+# PullReq
 Test repository for pull requests
